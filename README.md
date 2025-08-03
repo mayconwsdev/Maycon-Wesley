@@ -12,7 +12,7 @@
 
 ## 📂 Projetos em Destaque
 - **Plataforma Informativa ETE AVS** – Projeto acadêmico para divulgação de informações e editais escolares.
-  [Veja o repositório](#) 
+  [Veja o repositório](#plataforma-informativa-ete-avs) 
 ---
 
 📫 **Conecte-se comigo:**  
